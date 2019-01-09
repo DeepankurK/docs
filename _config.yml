@@ -1,0 +1,18 @@
+title: Humanoid IITK Docs
+description: Documentation page for Humanoid IITK project
+# baseurl: "/just-the-docs/" # the subpath of your site, e.g. /blog
+url: "https://humanoid-iitk.github.io/docs/" # the base hostname & protocol for your site, e.g. http://example.com
+
+permalink: pretty
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+
+# Enable or disable the site search
+search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "Go Back to Project Page":
+    - "https://humanoid-iitk.github.io/"
+
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: nil
