@@ -16,9 +16,8 @@ Here you will find all the information and instructions related to different mod
 
 ---
 
-## Work in Progress. 
-### Hi, I am Automi. I will get back to you soon.
-
+## Website's work is in Progress. 
+### Hi, I am Automi. I will let you see my brain when the site's creators make me intelligent.
 
 
 ## About the project
