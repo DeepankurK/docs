@@ -16,16 +16,10 @@ Here you will find all the information and instructions related to different mod
 
 ---
 
-## Getting started
-### Dependencies
+## Work in Progress. 
+### Hi, I am Automi. I will get back to you soon
 
-Something....
 
-### Quick start:
-
-Something....
-
----
 
 ## About the project
 
